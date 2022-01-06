@@ -11,12 +11,13 @@
       "fullname": "kutlayyilgin",
       "password": "eb5b044b0c244d97ca159919d7cf8c469dd853d7",
       "id": 2,
-      "likes": [
+      "likes": [],
+      "bookmarks": [
+        3,
+        3,
         4,
         4,
-        5,
-        6,
-        1
+        4
       ]
     }
   ],

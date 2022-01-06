@@ -33,6 +33,13 @@ const routes = [
         component: function () {
             return import('../views/NewBookmark.vue')
         }
+    },
+    {
+        path: '/favorites',
+        name: 'Favorites',
+        component: function () {
+            return import('../views/Favorites.vue')
+        }
     }
 ]
 

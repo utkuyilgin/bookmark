@@ -34,6 +34,9 @@ export default createStore({
         },
         setLikes(state, payload){
             state.user.likes = payload;
+        },
+        setBookmarks(state, payload){
+            state.user.bookmarks = payload;
         }
     },
     actions: {},
